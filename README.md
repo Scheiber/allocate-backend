@@ -5,3 +5,5 @@
 [Frontend Deployment](https://allocate.netlify.app/)
 
 [Backend Deployment](https://allocate-backend.herokuapp.com/)
+
+[Trello](https://trello.com/b/WoO8fMbp/allocate)
