@@ -20,7 +20,7 @@ app.use(cors());
 
 // Routes
 app.get("/", (req, res) => {
-  res.send("Welcome to Allocate!");
+  res.send("<h1 style='text-align:center;'>Welcome to Allocate!</h1>");
 });
 
 //Listen
