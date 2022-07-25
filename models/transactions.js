@@ -43,7 +43,7 @@ transactions = [
   },
   {
     item_name: "Coffee",
-    amount: 8,
+    amount: -8,
     date: "July 3, 2022",
     from: "Starbucks",
     category: "expense",
