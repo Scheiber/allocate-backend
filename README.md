@@ -1,5 +1,9 @@
 # Allocate Backend
 
+![Allocate Wordmark](https://user-images.githubusercontent.com/794551/180706168-e49e4ea0-dfb0-46ce-a535-d15175740bfb.png)
+
+A budgeting app for the rest of us.
+
 ## Links
 
 - [Frontend Deployment](https://allocate.netlify.app/)
