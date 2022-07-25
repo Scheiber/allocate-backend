@@ -15,7 +15,11 @@ const transactionsController = require("./controllers/transactionsController.js"
 
 // Routes
 app.get("/", (req, res) => {
-  res.send(`<h1 style='text-align:center;'>Welcome to Allocate!</h1>`);
+  res.send(
+    `<h1 style="text-align:center; color:#2ECC40; font-family: 'Helvetica', 'Arial', sans-serif; font-size:50px;">$$$</h1>
+    <h1 style="text-align:center; font-family: 'Helvetica', 'Arial', sans-serif;">Welcome to the Allocate Backend!</h1>
+    <p style="text-align:center; font-family: 'Helvetica', 'Arial', sans-serif;"><a href="https://github.com/Scheiber/allocate-backend">Find out more.</a><p/>`
+  );
 });
 
 app.use("/transactions", transactionsController);
