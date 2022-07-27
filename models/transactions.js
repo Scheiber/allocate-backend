@@ -28,7 +28,7 @@ transactions = [
     category: "expense",
   },
   {
-    item_name: "Credit Card Paymemt",
+    item_name: "Credit Card Payment",
     amount: -100,
     date: "July 1, 2022",
     from: "Capital One",
