@@ -2,7 +2,11 @@
 
 ![Allocate Wordmark](https://user-images.githubusercontent.com/794551/180706168-e49e4ea0-dfb0-46ce-a535-d15175740bfb.png)
 
-A budgeting app for the rest of us.
+# A budgeting app for the rest of us.
+
+This is the repo for the [backend of Allocate](https://allocate-backend.herokuapp.com/). It is a custom-built RESTful API.
+
+For more information on the frontend of this project, please visit the [frontend repo](https://github.com/Scheiber/allocate).
 
 ## Links
 
