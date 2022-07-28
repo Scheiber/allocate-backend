@@ -69,6 +69,20 @@ transactions = [
     from: "PetSmart",
     category: "expense",
   },
+  {
+    item_name: "Income",
+    amount: 1500,
+    date: "July 27, 2022",
+    from: "Employer",
+    category: "income",
+  },
+  {
+    item_name: "Cereal",
+    amount: -6.26,
+    date: "July 27, 2022",
+    from: "Walmart",
+    category: "expense",
+  },
 ];
 
 module.exports = transactions;
